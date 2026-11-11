@@ -35,3 +35,4 @@ See Communicator issue for coordination handoff.
 - Links to Jetson skills for edge compute.
 - Cyber defense for network policy.
 - Mapping for location reliability notes.
+- Communicator repo for kid-safe devices.
