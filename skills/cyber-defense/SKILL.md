@@ -16,12 +16,16 @@ Brand: **GRUMMAN AI**. Fail closed. Local-first.
 - UniFi segmentation, no public exposure.
 - Meshtastic fallback for offline.
 - Dot-owned receipts for audit.
+- Specific apps: GerdsenAI-Local (Portal), Research-Chat, Fleet, Isaac-SHim, Jetson nodes (Orin-Camera-Lab, Voice-Assistant), Communicator, Weather-Forecasting, NVMe-RunBox, Agentic-Devtools.
 
 ## When to use
 - Remediation of security issues across repos (Local, Portal, Fleet).
 - Designing inter-app links.
 - Hardening Jetson/edge nodes.
+- Coordinating with issue consolidation (Local #474).
 
 ## Connections
-- All apps: Local, Research-Chat, Fleet, Communicator, Jetson nodes.
+- All apps listed above.
 - Intelligence for threat awareness.
+- Edge-communication for mesh policy.
+- Coding for implementation patterns.
