@@ -1,5 +1,12 @@
 # Changelog
 
+## 2026-11-13
+- Reviewed open issues across org (notable: GerdsenAI-Local #474 Portal/Repowise/issue consolidation P0 epic, #434 security trust paths, #457 sessions, Research-Chat large backlog, Isaac-SHim research/multi-embodiment epics, Communicator #1 Meshtastic decision, Weather-Forecasting research, Branding #5).
+- Optimized and expanded all domain skills with detailed procedures drawn from grumman-research and functional-3d-design local skills.
+- Strengthened secure interconnection guidance (Tailscale, Meshtastic, MCP, vaults, Dot receipts) and app connections (Local ↔ Research-Chat ↔ Fleet ↔ Isaac ↔ Jetson ↔ Communicator).
+- Added screenshot/image guidance and example placeholders in READMEs/skills. Branding consistency enforced.
+- No breaking changes. No GitHub Actions used.
+
 ## 2026-11-12
 - Reviewed open issues across org (notable: GerdsenAI-Local #474 Portal/Repowise/issue consolidation, #457 security sessions, Research-Chat large backlog, Isaac-SHim research epics, Communicator #1 Meshtastic decision, Weather research).
 - Optimized skill connections between apps: Local ↔ Research-Chat ↔ Fleet ↔ Isaac ↔ Jetson nodes ↔ Communicator via Tailscale/MCP/Meshtastic.
