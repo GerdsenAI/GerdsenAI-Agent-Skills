@@ -1,5 +1,12 @@
 # Changelog
 
+## 2026-11-14
+- Fresh full review of open GH issues across GerdsenAI org (Local ~58 open including P0 #474 Portal/Repowise/issue consolidation, security #434/#457/#447; Research-Chat ~149 backlog with classification/failover/UI bugs; Isaac-SHim 28 research/multi-embodiment epics; Samson 24 UI/fleet; OSINT-Fusion 21; Communicator #1 Meshtastic decision; Weather-Forecasting research pins; others).
+- Consolidated themes: security/hardening first, Portal alignment & evidence provenance, local-first AI, edge/mesh comms, Jetson/Orin bring-up, research pipelines (Earth-2, Isaac), coding standards.
+- Optimized skill connections: stronger links between Local/Portal, Research-Chat, Fleet, Isaac-SHim, Jetson nodes, OSINT-Fusion, Communicator, Weather, NVMe-RunBox, Agentic-Devtools, CLI via Tailscale/WireGuard fail-closed mesh, local MCP, Infisical-style vaults, mTLS, Dot-owned receipts, session invalidation, UniFi segmentation, Meshtastic offline fallback.
+- No new breaking changes. Existing skills updated in place. No GitHub Actions used.
+- Branding preserved: GRUMMAN AI / GerdsenAI, four-section enclosing G, dark neural theme, rainbow accents. Sovereign Intelligence Builds a Brighter Tomorrow. Local-first. Sourced claims only.
+
 ## 2026-11-13
 - Reviewed open issues across org (notable: GerdsenAI-Local #474 Portal/Repowise/issue consolidation P0 epic, #434 security trust paths, #457 sessions, Research-Chat large backlog, Isaac-SHim research/multi-embodiment epics, Communicator #1 Meshtastic decision, Weather-Forecasting research, Branding #5).
 - Optimized and expanded all domain skills with detailed procedures drawn from grumman-research and functional-3d-design local skills.
