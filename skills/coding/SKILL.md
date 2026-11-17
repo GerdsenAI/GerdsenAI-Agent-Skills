@@ -19,9 +19,10 @@ lifecycle: active
 5. Preserve branding in all outputs (docs, GUIs, screenshots, PDFs). Follow Brand 2.1.0.
 6. Issue consolidation: Inventory all pages of issues/PRs (bypass single-page limits), classify (keep/integrate/archive/investigate), preserve history, link duplicates in place, update existing issues. See GerdsenAI-Local #474 P0 epic for Portal/Repowise/wiki patterns.
 7. Code classification: active runtime, conditional, tooling, vendored, archived, orphan. Cross-check imports, routes, entrypoints before any removal.
+8. Skills adoption: coordinate with Isaac #86 for NVIDIA skills + ecosystem.
 
 ## When to use
-- Implementing features in Local (Portal), CLI, Research-Chat, Fleet, Agentic-Devtools, Isaac-SHim, Jetson nodes.
+- Implementing features in Local (Portal), CLI, Research-Chat, Fleet, Agentic-Devtools, Isaac-SHim, Jetson nodes, Mabry-EMR.
 - Code review, refactoring, consolidation of issues across org.
 - Creating or updating skills and repos.
 - Drawing connections between apps via secure means.
@@ -34,14 +35,15 @@ lifecycle: active
 5. Update skills to reflect current priorities without inventing.
 
 ## Connections
-- Cyber-defense for secure code and inter-app links (Local #457 sessions, #434 trust paths).
+- Cyber-defense for secure code and inter-app links (Local #457 sessions, #434 trust paths, #447 eMudhra).
 - AI-training for model-related code and pipelines.
 - Schematics for engineering code and DFM.
 - Intelligence for evidence grounding in docs and research.
 - Edge-communication and Jetson for hardware-related code and edge deployment.
 - Mapping for geo/spatial features.
+- Weather-Forecasting for research pins and Earth-2 integration.
 
-Related open issues: Local #474 (consolidation epic), #434 (security), Research-Chat backlog, Isaac research epics, Communicator #1.
+Related open issues: Local #474 (consolidation epic), #434/#457/#447 (security), Research-Chat backlog, Isaac research epics (#176 multi-embodiment), Communicator #1, Weather #47, Voice-Assistant #33.
 
 ## Breaking Changes Notes
 None in this update. Future changes to secure connection APIs or branding must be noted in CHANGELOG.md with migration steps.
