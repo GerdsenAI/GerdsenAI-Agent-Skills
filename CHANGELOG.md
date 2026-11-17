@@ -1,5 +1,11 @@
 # Changelog
 
+## 2026-11-17
+- Full review of open GH issues across GerdsenAI org. Themes: security/trust paths (Local #434/#457/#447), Portal consolidation (#474), local-first, edge/mesh (Communicator #1), Jetson flash/prep/OOM (Voice-Assistant #33), research pipelines (Research-Chat backlog, Isaac multi-embodiment #176, Weather Sprint 15 #47 / Earth2Studio, Mabry-EMR Jetson deploy), coding standards, skills adoption (Isaac #86).
+- Created new `GerdsenAI-Skills-Optimized-2026-11-17` repo with further optimized skills. Tighter connections between apps via highly secure means (Tailscale/WireGuard mesh, local MCP, vaults, mTLS, Meshtastic fallback, Dot receipts, session invalidation).
+- Expanded procedures for issue consolidation, evidence grounding, sourced claims (grumman-research). Added image/screenshot guidance and generated branded examples (logo, mesh map, flash terminal, schematic).
+- No breaking changes. No GitHub Actions used. Branding preserved (GRUMMAN AI / GerdsenAI, four-section G, Brand 2.1.0).
+
 ## 2026-11-16
 - Full review of open GH issues across GerdsenAI org (~447 open). Themes: security/trust paths (Local #434/#457/#447), Portal consolidation (#474), local-first, edge/mesh (Communicator #1), Jetson flash/prep, research pipelines (Research-Chat backlog, Isaac epics, Weather/Earth-2), coding standards.
 - Created new `GerdsenAI-Skills-Consolidated-2026` repo with optimized skills drawn from this one and current skills. Tighter connections between apps via highly secure means (Tailscale/WireGuard mesh, local MCP, vaults, mTLS, Meshtastic fallback, Dot receipts, session invalidation).
