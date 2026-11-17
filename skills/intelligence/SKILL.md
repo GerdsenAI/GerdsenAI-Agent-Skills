@@ -9,22 +9,24 @@ lifecycle: active
 
 Brand: **GRUMMAN AI**. Evidence first. No invented facts. Local-first preferred. No GH Actions.
 
+![GRUMMAN AI Logo](https://avatars.githubusercontent.com/u/217308685?s=200&v=4)
+
 ## Procedure
 1. Source every claim (URL or document path, date read, exact sentence/quote). If none, "not sourced" and stop.
 2. Prefer local tools and private data sources. Ground in project repos (Research-Chat, OSINT-Fusion, Weather-Forecasting).
 3. Version sources and track contradictions. Do not average disagreements; quote both.
-4. For research passes: fact-check against primary sources before recommending. Link to open research issues.
+4. For research passes: fact-check against primary sources before recommending. Link to open research issues (Weather #31-#37, #47 Sprint 15).
 5. Capture screenshots of research outputs or dashboards for READMEs where applicable.
 
 ## Connections
-- Research-Chat (large backlog), Weather-Forecasting research issues (Earth-2, NIM fact-checks), OSINT-Fusion.
+- Research-Chat (large backlog), Weather-Forecasting research issues (Earth-2, NIM fact-checks, Earth2Studio 0.20.0), OSINT-Fusion.
 - Mapping for geo-intel and field data.
 - Cyber for secure collection and provenance.
 - Coding for pipeline implementation and issue consolidation.
 - AI-training for dataset provenance in research.
-- Isaac-SHim for simulation-based intelligence.
+- Isaac-SHim for simulation-based intelligence (multi-embodiment #176).
 
-Related open issues: Weather #31-#37 research tracking, Isaac research epics.
+Related open issues: Weather #31-#37 research tracking, #47 Sprint 15, Isaac research epics.
 
 ## Breaking Changes
 None. Source format or provenance rules changes require changelog notes.

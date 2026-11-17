@@ -9,17 +9,19 @@ lifecycle: active
 
 Brand: **GRUMMAN AI**. Fail closed. Local-first. Sourced claims only. No GH Actions.
 
+![GRUMMAN AI Logo](https://avatars.githubusercontent.com/u/217308685?s=200&v=4)
+
 ## Secure Connections Between Apps
-Highly secure means for interconnecting all apps (Local/Portal, Research-Chat, Fleet, Isaac-SHim, Jetson nodes, OSINT, Communicator, Weather-Forecasting, NVMe-RunBox, Agentic-Devtools, CLI):
+Highly secure means for interconnecting all apps (Local/Portal, Research-Chat, Fleet, Isaac-SHim, Jetson nodes, OSINT, Communicator, Weather-Forecasting, NVMe-RunBox, Agentic-Devtools, CLI, Samson, Mabry-EMR):
 - Tailscale/WireGuard mesh with fail-closed exit nodes. Prefer loopback + private mesh.
 - Local MCP servers and Infisical-style secrets/vaults. No secrets in prompts or repos.
 - mTLS where applicable. Session invalidation on password/credential changes (see Local #457).
 - UniFi segmentation, no public exposure for sensitive data. Trust path remediation (Local #434 eMudhra).
 - Meshtastic fallback for offline/low-bandwidth. Dot-owned receipts for audit and provenance.
-- Specific patterns: shared Comms (#437), Portal security composition.
+- Specific patterns: shared Comms, Portal security composition, Mabry-EMR redaction and role-gated UI.
 
 ## When to use
-- Remediation of security issues across repos (Local, Portal, Fleet, Jetson).
+- Remediation of security issues across repos (Local, Portal, Fleet, Jetson, Mabry-EMR).
 - Designing or auditing inter-app links.
 - Hardening Jetson/edge nodes and network policies.
 - Coordinating with issue consolidation (Local #474) and branding.
