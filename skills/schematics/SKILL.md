@@ -9,6 +9,8 @@ lifecycle: active
 
 Brand: **GRUMMAN AI**. Real millimetre scale. DFM. Headless Blender preferred. Sourced claims only. No GH Actions.
 
+![GRUMMAN AI Logo](https://avatars.githubusercontent.com/u/217308685?s=200&v=4)
+
 ## Rules
 - Separate requirements, schematics, and fabrication files. Agents do not fabricate from chat diagrams.
 - Source dimensions, materials, loads from datasheets or measurements (follow grumman-research). Pass millimetres only into kit functions.
@@ -25,7 +27,7 @@ Brand: **GRUMMAN AI**. Real millimetre scale. DFM. Headless Blender preferred. S
 ## Example Output
 Jetson carrier chassis schematic/render:
 
-![Chassis Schematic](https://via.placeholder.com/800x400?text=Jetson+Chassis+Schematic+GRUMMAN+AI) <!-- Replace with Blender render -->
+![Chassis Schematic](https://via.placeholder.com/800x400?text=Jetson+Chassis+Schematic+GRUMMAN+AI) <!-- Replace with Blender render. Generated example in optimized repo. -->
 
 ## Connections
 - Orin-Camera-Lab for hardware baselines.

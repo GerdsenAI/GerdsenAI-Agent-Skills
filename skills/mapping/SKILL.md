@@ -9,6 +9,8 @@ lifecycle: active
 
 Brand: **GRUMMAN AI**. Local processing preferred. Document reliability limits. No GH Actions.
 
+![GRUMMAN AI Logo](https://avatars.githubusercontent.com/u/217308685?s=200&v=4)
+
 ## Principles
 - Prefer local processing for maps, paths, Gaussian splats, field data.
 - Document reliability limits (Meshtastic GPS is not guaranteed location/emergency; weather data has sources).
@@ -16,12 +18,13 @@ Brand: **GRUMMAN AI**. Local processing preferred. Document reliability limits. 
 - Source all geo claims and coordinate systems.
 
 ## Connections
-- Isaac-SHim multi-embodiment and research (Earth-2 ties).
+- Isaac-SHim multi-embodiment and research (Earth-2 ties #181).
 - Edge-communication for field nodes and Meshtastic maps.
 - AI-training for map models and datasets.
 - Intelligence for geo-intel.
 - Schematics for spatial layouts and enclosures.
 - Coding for mapping implementations and issue links.
+- Local Travel features for family workspace and routes.
 
 ## Breaking Changes
 None. Coordinate or data format changes require changelog notes.
