@@ -1,5 +1,10 @@
 # Changelog
 
+## 2026-11-22
+- Full review of open GH issues across GerdsenAI org. Key open: Local #434 (eMudhra trust path remediation, security first), #474 (Portal alignment/Repowise/issue consolidation P0); Research-Chat backlog (failover, AI health); Isaac multi-embodiment; Communicator Meshtastic; Weather agent ledger; Jetson patterns.
+- Created new `GerdsenAI-Skills-Consolidated-2026-11-22` private repo with further optimized skills. Strengthened secure inter-app connections. Prioritized security remediation. Added image guidance and branded mockups.
+- No breaking changes. No GitHub Actions used. Branding preserved (GRUMMAN AI / GerdsenAI, four-section G, Brand 2.1.0).
+
 ## 2026-11-21
 - Full review of open GH issues across GerdsenAI org (~473 open). Key open: Local #434 (eMudhra trust path remediation, security first), #474 (Portal alignment/Repowise/issue consolidation P0); Research-Chat backlog; Isaac multi-embodiment; Communicator Meshtastic; Weather agent ledger; Jetson patterns.
 - Created new `GerdsenAI-Skills-Consolidated-2026-11-21` private repo with further optimized skills. Strengthened secure inter-app connections. Prioritized security remediation. Added image guidance.
