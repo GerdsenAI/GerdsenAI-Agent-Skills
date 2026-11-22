@@ -29,7 +29,7 @@ All apps (Local/Portal, Research-Chat, Fleet, Isaac-SHim, Jetson nodes, OSINT-Fu
 - Dot-owned receipts and session invalidation on credential changes
 - UniFi segmentation, no public endpoints for sensitive data
 
-See cyber-defense skill and related repos: GerdsenAI-Skills-Secure-Interconnect, GerdsenAI-Skills-Optimized-2026-11-17, GerdsenAI-Skills-Consolidated-2026-11-21.
+See cyber-defense skill and related repos: GerdsenAI-Skills-Secure-Interconnect, GerdsenAI-Skills-Optimized-2026-11-17, GerdsenAI-Skills-Consolidated-2026-11-21, **GerdsenAI-Skills-Consolidated-2026-11-22** (latest).
 
 Related to GerdsenAI-Local #474 (Portal alignment, Repowise wiki, issue consolidation), #457 (security sessions), #434 (trust paths), #447 (eMudhra coordination).
 
@@ -49,7 +49,7 @@ Example: Meshtastic mesh visualization and Jetson flash terminal patterns availa
 
 ## Changelog
 
-See CHANGELOG.md for full history. Latest: 2026-11-21 full issue review and optimization (see GerdsenAI-Skills-Consolidated-2026-11-21).
+See CHANGELOG.md for full history. Latest: 2026-11-22 full issue review and optimization (see GerdsenAI-Skills-Consolidated-2026-11-22).
 
 ## Security
 
@@ -62,5 +62,6 @@ Highly secure by default. Local compute stays local. Do not send lab logs, pinmu
 - GerdsenAI-Skills-Secure-Interconnect
 - GerdsenAI-Skills-Consolidated-2026
 - GerdsenAI-Skills-Optimized-2026-11-17
-- GerdsenAI-Skills-Consolidated-2026-11-21 (latest optimized)
+- GerdsenAI-Skills-Consolidated-2026-11-21
+- GerdsenAI-Skills-Consolidated-2026-11-22 (latest optimized)
 - GerdsenAI-Local, GerdsenAI-Research-Chat, GerdsenAI-Fleet, GrummanAI-Isaac-SHim, Communicator, GrummanAI-Orin-Camera-Lab, GerdsenAI-OSINT-Fusion, GerdsenAI-Weather-Forecasting
